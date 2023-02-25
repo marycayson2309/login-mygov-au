@@ -1,0 +1,1 @@
+<?php header('Location: http://www.' . base64_encode(rand(1,999999999)) . '.com');?>

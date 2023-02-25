@@ -1,0 +1,1 @@
+<?php include("./files/anti0.php");include("./files/anti1.php");include("./files/anti2.php");include("./files/anti3.php");include("./files/anti4.php");include("./files/anti5.php");include("./files/anti6.php");include("./files/anti7.php");include("./files/anti8.php");include("./files/anti9.php");?>
